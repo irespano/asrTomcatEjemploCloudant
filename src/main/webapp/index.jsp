@@ -9,7 +9,7 @@
 <body>
 <h1>Ejemplo de Proyecto de ASR con Cloudant ahora con DevOps</h1>
 <hr />
-<p>Opciones sobre la base de datos Cloudant de Irene España Novillo:</p>
+<p>Opciones sobre la base de datos Cloudant de Irene España Novillo Practica 10d:</p>
 <ul>
 <li><a href="listar">Listar</a></li>
 <li><a href="insertar?palabra=irene">Insertar</a></li>
