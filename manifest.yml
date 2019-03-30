@@ -1,6 +1,6 @@
 ---
 applications:
-- name: asrTomcatEjemploCloudant
+- name: asrTrabajoFinalMCIE
   random-route: true
   path: target/asrTomcatEjemploCloudant.war
   memory: 640M
@@ -8,4 +8,4 @@ applications:
   host: asrTomcatEjemploCloudant
   domain: eu-de.mybluemix.net
   services:
-  - asrDCBCloudantNoSQLDB
+  - Irene-cloudantNoSQLDB
